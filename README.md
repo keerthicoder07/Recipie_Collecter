@@ -179,12 +179,16 @@ pages: Total number of pages
 **Example screenshots of application**
 
 **Endpoint1**
-<img width="1904" height="978" alt="Screenshot 2025-12-17 101436" src="https://github.com/user-attachments/assets/13282780-9464-4c25-8696-060753316c2f" /><br>
-<img width="625" height="973" alt="Screenshot 2025-12-17 101405" src="https://github.com/user-attachments/assets/59bb7c7b-734e-48a5-a692-12f67837bfee" />
-**Endpoint2**
-**with search query**
-<img width="1917" height="971" alt="Screenshot 2025-12-17 101350" src="https://github.com/user-attachments/assets/f3590606-2b00-43d8-9630-f0d5992ec303" /><br>
-**when have no results**
-<img width="1916" height="974" alt="Screenshot 2025-12-17 101705" src="https://github.com/user-attachments/assets/e7c275be-34ce-4653-aac4-50d5f8063ce4" />
+<img width="1919" height="1079" alt="Screenshot 2025-12-17 110801" src="https://github.com/user-attachments/assets/5e871de2-3d6f-49d6-92ea-e999de1c5ce6" />
+<br>
+<img width="1917" height="1079" alt="Screenshot 2025-12-17 110828" src="https://github.com/user-attachments/assets/4ed3483f-726f-4034-9433-4e6c45439086" />
+<br>
+**Endpoint2**<br>
+**with search query**<br>
+<img width="1919" height="1079" alt="Screenshot 2025-12-17 110902" src="https://github.com/user-attachments/assets/dd7b41c7-d7c8-45e0-bf60-29654ee58cb7" />
+<br>
+**when have no results**<br>
+<img width="1919" height="1079" alt="Screenshot 2025-12-17 110925" src="https://github.com/user-attachments/assets/c954ac7d-c465-4512-950a-af108c0c3183" />
+
 
 
